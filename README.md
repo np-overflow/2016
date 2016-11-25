@@ -6,4 +6,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 
 | Name | Github Link | Social Media | What you're interested in building | Personal Page |
 | ---- | ----------- | ------------ | ---------------------------------- | ------------- |
-| Samuel | - | - | - | - |
+| Samuel | https://github.com/samuelong | - | - | - |
