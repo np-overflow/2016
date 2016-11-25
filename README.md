@@ -6,3 +6,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 
 | Name | Github Link | Social Media | What you're interested in building | Personal Page |
 | ---- | ----------- | ------------ | ---------------------------------- | ------------- |
+| Chester How | [chesterhow](https://github.com/chesterhow) | [Instagram](https://www.instagram.com/itsnotchester/) | I wanna build websites |
