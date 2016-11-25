@@ -6,3 +6,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 
 | Name | Github Link | Social Media | What you're interested in building | Personal Page |
 | ---- | ----------- | ------------ | ---------------------------------- | ------------- |
+| Richeton Chua | https://github.com/Richeton | NIL | [Build-a-Bear](http://buildabear.com.sg/) | [My Personal Page](https://github.com/np-overflow/2016)
