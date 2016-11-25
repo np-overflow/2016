@@ -7,3 +7,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 | Name | Github Link | Social Media | What you're interested in building | Personal Page |
 | ---- | ----------- | ------------ | ---------------------------------- | ------------- |
 | Chester How | [chesterhow](https://github.com/chesterhow) | [Instagram](https://www.instagram.com/itsnotchester/) | I wanna build websites |
+| Melvin | [My Github] (https://github.com/MelvinOng) | [Totally my Instagram](https://www.instagram.com/itsnotchester/)| Planes | [My Personal Page ](https://www.google.com.sg/)|
