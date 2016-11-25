@@ -12,3 +12,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 | Wan Si Zheng | [yaminotoki](https://github.com/yaminotoki) | [I dont use it](http://instagram.com/w.sizheng) | idk | NIL |
 | Richeton Chua | https://github.com/Richeton | NIL | [Build-a-Bear](http://buildabear.com.sg/) | [My Personal Page](https://github.com/np-overflow/2016)
 | Seah Yuan Shengh | [asdfghjklasc](https://github.com/asdfghjklasc) | [Seah Yuan Shengh](facebook.com/fsplayer) | - | - | 
+| Muhammad Shazrin | [omfgshaz](https://github.com/omfgshaz) | [Instagram](http://instagram.com/omfgshaz) | I wanna build a website | |
