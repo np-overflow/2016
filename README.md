@@ -6,4 +6,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 
 | Name | Github Link | Social Media | What you're interested in building | Personal Page |
 | ---- | ----------- | ------------ | ---------------------------------- | ------------- |
-| Seah Yuan Shengh | (asdfghjklasc)https://github.com/asdfghjklasc | facebook.com/fsplayer | - | - | 
+| Seah Yuan Shengh | [asdfghjklasc](https://github.com/asdfghjklasc) | [Seah Yuan Shengh](facebook.com/fsplayer) | - | - | 
