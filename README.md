@@ -6,3 +6,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 
 | Name | Github Link | Social Media | What you're interested in building | Personal Page |
 | ---- | ----------- | ------------ | ---------------------------------- | ------------- |
+| Muhammad Shazrin | [omfgshaz](https://github.com/omfgshaz) | [Instagram](http://instagram.com/omfgshaz) | I wanna build a website | |
