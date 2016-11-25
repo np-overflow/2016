@@ -6,3 +6,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 
 | Name | Github Link | Social Media | What you're interested in building | Personal Page |
 | ---- | ----------- | ------------ | ---------------------------------- | ------------- |
+| Wan Si Zheng | [yaminotoki](https://github.com/yaminotoki) | [I dont use it](http://instagram.com/w.sizheng) | idk | NIL |
