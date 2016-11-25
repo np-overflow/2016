@@ -14,3 +14,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 | Seah Yuan Shengh | [asdfghjklasc](https://github.com/asdfghjklasc) | [Seah Yuan Shengh](facebook.com/fsplayer) | - | - | 
 | Muhammad Shazrin | [omfgshaz](https://github.com/omfgshaz) | [Instagram](http://instagram.com/omfgshaz) | I wanna build a website | |
 |Muhammad|[Muhammad](https://github.com/MuhdMDFarid)|*NIL*|I want build...||
+| Samuel | https://github.com/samuelong | - | - | - |
